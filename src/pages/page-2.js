@@ -8,6 +8,7 @@ const SecondPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Page two" />
+      <h1>The Starry Night</h1>
       <Img fluid={data.img.childImageSharp.fluid} />
       <button
         class="snipcart-add-item"
