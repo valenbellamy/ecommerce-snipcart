@@ -27,6 +27,14 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: "gatsby-plugin-snipcartv3",
+      options: {
+        apiKey:
+          "ODVhMzQxNmYtZWFjMS00ZDIwLTk0NzAtM2E0NDMxMjQ0NjM3NjM2OTIzNTUzOTk5NDEyNzE1",
+      },
+    },
+
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
