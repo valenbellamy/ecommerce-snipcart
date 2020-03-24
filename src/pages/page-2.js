@@ -13,7 +13,7 @@ const SecondPage = ({ data }) => {
         class="snipcart-add-item"
         data-item-id="starry-night"
         data-item-price="79.99"
-        data-item-url="/"
+        data-item-url="https://5e7a21d57841f371b3f2c9dc--hardcore-lamport-91a9ed.netlify.com/page-2/"
         data-item-description="High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh."
         data-item-name="The Starry Night"
       >
